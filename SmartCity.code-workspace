@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "*.tcc": "cpp",
+      "algorithm": "cpp",
+      "random": "cpp",
+      "fstream": "cpp",
+      "istream": "cpp",
+      "limits": "cpp",
+      "sstream": "cpp",
+      "streambuf": "cpp"
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "platformio.platformio-ide"
+    ]
+  }
+}
